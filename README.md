@@ -1,4 +1,4 @@
-![Screenshot from 2023-11-01 15-46-17](https://github.com/reomelo/42Porto-push_swap/assets/73884501/cd2ce691-9e92-4c46-9d84-998a0c30b4af)
+![Screenshot from 2023-11-01 16-20-45](https://github.com/reomelo/42Porto-libft/assets/73884501/6d4a00dc-fa3a-4698-99da-4d0bbe4f2ea4)
 
 ### Description of the project:
 This project consists on the creation of a C header file containing recreations of already existing functions. In my case, I did the bonus alongside the mandatory, so when you run `make` both parts are executed.
